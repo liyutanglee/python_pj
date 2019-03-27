@@ -1,4 +1,4 @@
-#基于python 3.7.0
+#基于python 3.7.0[根据网易云歌单下载音乐]
 
 import os
 import requests
